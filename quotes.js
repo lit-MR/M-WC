@@ -1,4 +1,4 @@
-const localQuotes = [
+[
   {
     text: "Aithníonn ciaróg, ciaróg eile.",
     author: "Unknown"
